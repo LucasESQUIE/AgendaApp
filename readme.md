@@ -11,6 +11,7 @@ AgendaApp
             - [ ] Ajouter un Event (liaison Backend)
             - [ ] Supprimer un Event (liaison Backend)
             - [ ] Modifier un Event (liaison Backend)
+        - [ ] Créer composant EventForm
         - [ ] Visualiser tous les Events sur un jour
         - [ ] Visualiser tous les Events sur une semaine
         - [ ] Visualiser tous les Events sur un mois
